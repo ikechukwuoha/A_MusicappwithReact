@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #My own Apps
     'api.apps.ApiConfig',
     'rest_framework',
+    'frontend'
 ]
 
 MIDDLEWARE = [
